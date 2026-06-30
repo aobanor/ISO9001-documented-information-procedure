@@ -8,7 +8,7 @@ covering the full requirements for creating, updating, controlling and retaining
 - 7.5.3 - Control (availability,  protection, distribution, storage, version control, retention and disposition)
 
 ## Includes
-- Full clause -by-clause requirements table
+- Full clause-by-clause requirements table
 - Document identification requirements
 - Retention schedule for all record types
 - Control of external documents
